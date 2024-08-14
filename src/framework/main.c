@@ -4,7 +4,7 @@
 #include <raylib/raylib.h>
 
 int main(int argc, char *argv[]) {
-   InitWindow(600, 400, "raygui - controls test suite");
+   InitWindow(600, 400, "Framework Window!");
    SetTargetFPS(60);
 
    void* state = initialise();

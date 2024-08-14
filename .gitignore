@@ -1,0 +1,6 @@
+.vscode/
+build/
+bin/
+web-client/venv
+web-client/__pycache__
+
